@@ -19,11 +19,24 @@ This theme is designed with teachers and content creators in mind, especially th
 
 ---
 
+## Screenshots
+
+![Screenshot](assets/preview.png)
+
+---
+
 ## Features
 
 - Seamless integration with Zed.
 - Bright and distinct token colors for improved visibility.
 - Optimized for both dark and light environments.
+
+---
+
+## Manual install
+
+- Copy the `themes/*.json` files from this repo into `~/.config/zed/themes`.
+- Select your theme (Settings -> Select Theme).
 
 ---
 

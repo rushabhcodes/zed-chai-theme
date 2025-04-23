@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["rushabhcodes"]
 description = "Chai Theme for Zed"
-repository = "https://github.com/rushabhcodes/zed-chia-theme"
+repository = "https://github.com/rushabhcodes/zed-chai-theme"

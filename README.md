@@ -21,7 +21,11 @@ This theme is designed with teachers and content creators in mind, especially th
 
 ## Screenshots
 
-![Screenshot](assets/preview.png)
+### Dark Theme
+![Chai Theme Dark](assets/preview_dark.png)
+
+### Light Theme
+![Chai Theme Light](assets/preview_light.png)
 
 ---
 
@@ -36,7 +40,7 @@ This theme is designed with teachers and content creators in mind, especially th
 ## Manual install
 
 - Copy the `themes/*.json` files from this repo into `~/.config/zed/themes`.
-- Select your theme (Settings -> Select Theme).
+- Select your theme (Settings → Select Theme).
 
 ---
 
